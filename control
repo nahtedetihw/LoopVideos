@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.loopvideos
+Name: LoopVideos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Loop videos in your Photos app
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: 
